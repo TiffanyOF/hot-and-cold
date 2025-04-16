@@ -1,13 +1,20 @@
-# hot-and-cold🔥❄️
-###
+<h1>Quente e Frio🔥❄️</h1>
 
-Um site interativo da famosa brincadeira Quente e Frio. Onde tem que encontrar a pequena bolinha, onde ela estará andando. E quando chegar mais perto, mais seu circulo diminui. Se divirta tentando encontrar!
-###
+SCARYTUBE é o portal do medo, onde o terror não têm fim! O site contêm vários vídeos de mistérios, jogos de terror, gameplays, args, creepypasta, suspense e muito mais! Uma página de catálogo de vídeos desenvolvido na unidade "Página Web: criando um catálogo de vídeos com HTML e CSS" da Alura Start.
 
-# Tecnologias Utilizadas
+#
 
--HTML
+<h3>Tecnologias utilizadas</h3>
 
--CSS
+_-P5.JS_
 
--P5.JS
+_-HTML_
+
+_-CSS_
+
+#
+
+<h3>Notas e créditos</h3>
+
+_Feito por Tiffany de Oliveira Ferreira, estudande do Ibrahim Nobre e Alura_
+
